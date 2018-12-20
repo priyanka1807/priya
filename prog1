@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+void main
+{
+int a;
+if(a==0)
+{
+printf("a is zero");
+else if(a>0)
+{
+printf("a is postive");
+}
+else
+{
+printf("a is negative");
+}
+}
+getch();
